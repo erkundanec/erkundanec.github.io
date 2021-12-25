@@ -8,25 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Postdoctoral Research Fellow in the
-[Weidenbaum Center on the Economy, Government, and Public Policy](https://wc.wustl.edu/) 
-and [Department of Political Science](https://polisci.wustl.edu/) at
-[Washington University in St. Louis](https://wustl.edu/). I am also an
-affiliated researcher with the
-[Data-driven Analysis of Peace Project](https://dapp-lab.org) lab. I specialize
-in International Relations and Political Methodology. I earned my Ph.D in
-Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu/) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu/).
+Kundan Kumar has received the B.Tech. degree in Electronics and Telecommunication Engineering, in 2009, from Dhaneswar Rath Institute of Engineering and Management Studies, Cuttack, Odisha, India, and the M.Tech. degree in Electronic Systems & Communication Engineering from National Institute of Technology, Rourkela, Odisha, India in 2011. He has completed Doctor of Philosophy (Ph.D.) degree in 2017 under the supervision of Prof. P. K. Biswas in Electronics and Electrical Communication Engineering Department, Indian Institute of Technology, Kharagpur, India. His Ph.D. thesis work deals with the Statistical Damage Detection approaches for Civil Structures using Vibration Signal Analysis.
 
-My work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Conflict Management and Peace Science*,
-*Political Science Research and Methods*, and *PS: Political Science & Politics*,
-among other outlets. My [research](research) explores the causes and
-consequences of political violence using a broad variety of methods such as
-latent variable models, geospatial analysis, and big data. While I primarily
-focus on civil conflict, I also examine contentious political phenomena
-including terrorism and economic statecraft, and develop new measures of
-institutions in international relations. I have [teaching](teaching) experience
-in both international relations and quantitative methodology, and am a certified
-instructor with [The Carpentries](https://carpentries.org/).
+Currently, he is affiliated to ECE Department, ITER, Siksha 'O' Anusandhan, Deemed to be University, Bhubaneswar, Odisha, India. He has joined the university in March, 2017 as Associate Professor. Now, he is working on Analysis of Retinal Images for Diagnosis of Various Diseases. He has 9 research publications in international journals and conferences. His research interests include Computer Vision, Machine Learning, Pattern Recognition, Structural Health Monitoring, Time Series Analysis.
