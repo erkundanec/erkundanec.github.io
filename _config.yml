@@ -11,9 +11,9 @@ title                    : "Kundan Kumar"
 title_separator          : "-"
 name                     : &name "Kundan Kumar"
 description              : &description "Phd IIT Kharagpur, Associate Professor, ITER (FET), Siksha 'O' Anusandhan (Deemed to be University)"
-url                      : https://jayrobwilliams.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://erkundanec.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jayrobwilliams/jayrobwilliams.github.io"
+repository               : "erkundanec/erkundanec.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,15 +82,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rob Williams"
-  avatar           : "profile.png"
-  bio              : "Postdoctoral Research Fellow"
-  location         : "St. Louis, MO"
+  name             : "Kundan Kumar"
+  avatar           : "photo.jpg"
+  bio              : "PhD, IIT Kharagpur, Associate Professor, ITER, S'O'A Deemed to be University"
+  location         : "Bhubaneswar, India"
   employer         :
   pubmed           :
-  orcid            : "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
-  email            : "rob.williams@wustl.edu"
+  orcid            : "http://orcid.org/0000-0003-3365-2868"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=AiFRaIkAAAAJ"
+  email            : "kundankumar@soa.ac.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,20 +99,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jayrobwilliams"
-  gitlab           : "jayrobwilliams"
+  github           : "erkundanec"
+  gitlab           : 
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         : "jayrobwilliams"
+  linkedin         : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "jayrobw"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Kolkata # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
