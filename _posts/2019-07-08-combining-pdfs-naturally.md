@@ -9,7 +9,7 @@ tags:
   - bash
 ---
 
-My previous [post]({{ site.baseurl }}{% post_url 2019-06-25-combining-pdfs %}) on combining multiple PDF files had an important caveat that things would end up in the wrong order if you had files with leading ID numbers that started at 1 and ended at 12, you'd end up with PDFs combined in the order 1, 10, 11, 12, 2, 3, ..., 9.
+My previous [post]({{ site.baseurl }}{% post_url 2021-06-26-intro-to-jabref %}) on combining multiple PDF files had an important caveat that things would end up in the wrong order if you had files with leading ID numbers that started at 1 and ended at 12, you'd end up with PDFs combined in the order 1, 10, 11, 12, 2, 3, ..., 9.
 <!--more-->
 This is because the default sort in Bash is an alphabetic sort. This is just our standard alphabetic sort, but it gets tripped up when dealing with numbers. We can think of it as a type of 'greedy' algorithm because it sorts all inputs by the first character, before moving onto the second character within each subset. This behavior is fine (and desirable!) for words, but fails with numbers.
 
