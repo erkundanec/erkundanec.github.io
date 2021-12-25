@@ -7,7 +7,25 @@ Teaching is an art to deliver the complex thing in the simplest way in the class
 
 You can find a selection of my teaching materials including all of the labs.
 
-## Washington University in St. Louis
+## Undergraduate Courses
+- Pattern Classification
+    - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
+    - Introduction to Pattern Classification 
+    
+- Foundation of Machine Learning using R
+    - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
+    - Introduction to Pattern Classification 
+ 
+- Numerical Methods
+    - [Syllabus](/files/pdf/teaching/POLI 891 Syllabus.pdf)
+    
+- Digital Filter Design
+    - [Syllabus](/files/pdf/teaching/POLI 891 Syllabus.pdf)
+    
+- Analog Filter Design
+    - [Syllabus](/files/pdf/teaching/POLI 891 Syllabus.pdf)
+
+## Postgraduate Courses
 - Digital Image Processing, Postgraduate (Spring 2017)
     - [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
     - [Lecture 01](/files/pdf/teaching/Digital_Image_Processing/DIP_Lecture01.pdf)
@@ -24,15 +42,4 @@ You can find a selection of my teaching materials including all of the labs.
     - [Lecture 12](/files/pdf/teaching/Digital_Image_Processing/DIP_Lecture12.pdf)
     - [Lecture 13](/files/pdf/teaching/Digital_Image_Processing/DIP_Lecture13.pdf)
     - [Lecture 14](/files/pdf/teaching/Digital_Image_Processing/DIP_Lecture14.pdf)
-- Pol Sci 3171: International Conflict Management & Resolution (Fall 2019)
-    - [Syllabus](/files/pdf/teaching/PS 3171 Syllabus.pdf)
 
-## The University of North Carolina at Chapel Hill
-- Poli 281: Quantitative Research in Political Science (Spring 2019)
-    - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
-- Poli 891: Lab for Advanced Topics in Political Data Science (Fall 2017, Fall 2018)
-    - [Syllabus](/files/pdf/teaching/POLI 891 Syllabus.pdf)
-
-## ICPSR Summer Program
-- Introduction to Applied Bayesian Modeling (Summer 2017)
-    - [Syllabus](/files/pdf/teaching/bayes2017.pdf)
