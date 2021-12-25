@@ -8,22 +8,25 @@ Teaching is an art to deliver the complex thing in the simplest way in the class
 You can find a selection of my teaching materials including all of the labs.
 
 ## Undergraduate Courses
-- Pattern Classification
+- Pattern Classification (EET3053))
     - [Syllabus](/files/pdf/teaching/PC-Syllabus.pdf)
     - [Materials](/pattern-classification.md)
     
-- Foundation of Machine Learning using R
+- Foundation of Machine Learning using R (CSE4032)
     - [Syllabus](/files/pdf/teaching/FML-Syllabus.pdf)
-    - Introduction to Pattern Classification 
+    - [Materials](/foundation-of-machine-learning.md)
  
-- Numerical Methods
+- Numerical Methods (MTH4002)
     - [Syllabus](/files/pdf/teaching/NM-Syllabus.pdf)
+    - [Materials](/numerical-methods.md)
     
-- Digital Filter Design
+- Digital Filter Design (EET3134)
     - [Syllabus](/files/pdf/teaching/DFD-Syllabus.pdf)
+    - [Materials](/digital-filter-design.md)
     
-- Analog Filter Design
+- Analog Filter Design (EET3132))
     - [Syllabus](/files/pdf/teaching/AFD-Syllabus.pdf)
+    - [Materials](/analog-filter-design.md)
 
 ## Postgraduate Courses
 - Digital Image Processing (Spring 2017)
