@@ -24,5 +24,5 @@ You can find a selection of my teaching materials including all of the labs.
 
 ## Postgraduate Courses
 - Digital Image Processing (Spring 2017)
-    - [Syllabus](/files/pdf/teaching/DIPSyllabus.pdf)                   an [Materials](/digital-image-processing.md)
+    - [Syllabus](/files/pdf/teaching/DIPSyllabus.pdf)                   and [Materials](/digital-image-processing.md)
 
