@@ -1,5 +1,5 @@
 ---
-permalink: /pattern-classification/
+permalink: /teaching/pattern-classification/
 title: "Pattern Classificaiton"
 header: 
   og_image: "teaching/pdp.png"
