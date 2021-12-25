@@ -14,15 +14,15 @@ You can find a selection of my teaching materials including all of the labs.
     - [Syllabus](/files/pdf/teaching/FML-Syllabus.pdf)                  and [Materials](/foundation-of-machine-learning.md)
  
 - Numerical Methods (MTH4002)
-    - [Syllabus](/files/pdf/teaching/NM-Syllabus.pdf)                   - [Materials](/numerical-methods.md)
+    - [Syllabus](/files/pdf/teaching/NM-Syllabus.pdf)                   and [Materials](/numerical-methods.md)
     
 - Digital Filter Design (EET3134)
-    - [Syllabus](/files/pdf/teaching/DFD-Syllabus.pdf)                  - [Materials](/digital-filter-design.md)
+    - [Syllabus](/files/pdf/teaching/DFD-Syllabus.pdf)                  and [Materials](/digital-filter-design.md)
     
 - Analog Filter Design (EET3132))
-    - [Syllabus](/files/pdf/teaching/AFD-Syllabus.pdf)                  - [Materials](/analog-filter-design.md)
+    - [Syllabus](/files/pdf/teaching/AFD-Syllabus.pdf)                  and [Materials](/analog-filter-design.md)
 
 ## Postgraduate Courses
 - Digital Image Processing (Spring 2017)
-    - [Syllabus](/files/pdf/teaching/DIPSyllabus.pdf)                   - [Materials](/digital-image-processing.md)
+    - [Syllabus](/files/pdf/teaching/DIPSyllabus.pdf)                   and [Materials](/digital-image-processing.md)
 
