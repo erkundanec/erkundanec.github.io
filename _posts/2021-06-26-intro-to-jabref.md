@@ -10,6 +10,6 @@ tags:
 ---
 
 # Jabref: A reference manager
-[Jabref](https://www.jabref.org/) is a free reference manager which collects and organizes your reference for you. You can directly dowload the latest version from the [link](https://www.jabref.org/#download).
+[Jabref](https://www.jabref.org/) is a free reference manager which collects and organizes your reference for you. You can directly download the latest version of Jabref from [here](https://www.jabref.org/#download).
 
 Jabref is available for MacOS, Linux, and Windows.
