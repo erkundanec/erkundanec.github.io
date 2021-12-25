@@ -10,7 +10,7 @@ You can find a selection of my teaching materials including all of the labs.
 ## Undergraduate Courses
 - Pattern Classification
     - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
-    - Introduction to Pattern Classification 
+    - [Materials](/_pages/patternclassification.md)
     
 - Foundation of Machine Learning using R
     - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
