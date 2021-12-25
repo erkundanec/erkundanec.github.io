@@ -65,6 +65,7 @@ import os
 for row, item in publications.iterrows():
     
     md_filename = str(item.pub_date[-4:]) + "-" + item.url_slug + ".md"
+    print(md_filename)
     html_filename = str(item.pub_date[-4:]) + "-" + item.url_slug
     year = item.pub_date[-4:]
     
@@ -83,13 +84,14 @@ for row, item in publications.iterrows():
     
     md += "\nvenue: '" + html_escape(item.venue) + "'"
     
-    # if len(str(item.paper_url)) > 5:
-    md += "\npaperurl: '" + html_escape(item.paper_url) + "'"
+    if len(str(item.paper_url)) > 5:
+        md += "\npaperurl: '" + html_escape(item.paper_url) + "'"
     
     md += "\nlink: '" + html_escape(item.link) + "'"
     
     # md += "\ncode: '" + html_escape(item.code) + "'"
-    md += "\ngithub: '" + html_escape(item.github) + "'"
+    if len(str(item.github)) > 5:
+        md += "\ngithub: '" + html_escape(item.github) + "'"
     
     md += "\ncitation: '" + html_escape(item.citation) + "'"
     
