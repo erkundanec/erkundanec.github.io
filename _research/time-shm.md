@@ -1,7 +1,7 @@
 ---
 title: "Time Series Analysis"
 layout: single-portfolio
-excerpt: "<img src='/images/research/map.png' alt=''>"
+excerpt: "<img src='/images/research/TimeSequence0.png' alt=''>"
 collection: research
 order_number: 20
 header: 
