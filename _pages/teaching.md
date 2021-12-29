@@ -11,7 +11,7 @@ You can find a selection of my teaching materials including all of the labs.
 - Pattern Classification (EET3053))
     - [Syllabus](/files/pdf/teaching/PC-Syllabus.pdf)                   - [Materials](/pattern-classification.md)
 - Foundation of Machine Learning using R (CSE4032)
-    - [Syllabus](/files/pdf/teaching/FML-Syllabus.pdf)                  - [Materials](/foundation-of-machine-learning.md)
+    - [Syllabus](/files/pdf/teaching/FML-Syllabus.pdf)                  - [Materials](/Foundation_of_ML.md)
  
 - Numerical Methods (MTH4002)
     - [Syllabus](/files/pdf/teaching/NM-Syllabus.pdf)                   - [Materials](/numerical-methods.md)
