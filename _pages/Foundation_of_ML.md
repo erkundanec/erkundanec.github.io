@@ -17,7 +17,7 @@ title: "Foundation of Machine Learning"
 - [Lec 07: Separating Hyperplane](/files/pdf/teaching/FML_Slides/Lec_07_Separating_Hyperplance.pdf)
 - [Lec 08: Support Vector Machine](/files/pdf/teaching/FML_Slides/Lec_08_Support_Vector_Machine.pdf)
 - [Lec 09: Model Selection](/files/pdf/teaching/FML_Slides/Lec_08_Support_Vector_Machine.pdf)
-- [Lec 10: Decision Tree]
+- Lec 10: Decision Tree
 - [Lec 11: Ensemble Methods](/files/pdf/teaching/FML_Slides/Lec_12_Neural_Networks.pdf)
 - [Lec 12: Neural Networks](/files/pdf/teaching/FML_Slides/Lec_00_Introduction_to_R_Part1)
 - [Lec 13: Unsupervised Learning Clustering](/files/pdf/teaching/FML_Slides/Lec_13_UnsupervisedLearning_Clustering.pdf)
