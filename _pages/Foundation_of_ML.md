@@ -12,7 +12,7 @@ title: "Foundation of Machine Learning"
 - [Lec 02: Overview of Supervised Learning Part2](/files/pdf/teaching/FML_Slides/Lec_02_Overview_of_Supervised_Learning_Part2.pdf)
 - [Lec 03: Linear Regression Models](/files/pdf/teaching/FML_Slides/Lec_03_Linear_Regression_Models.pdf)
 - [Lec 04: Selection Shringkage Method](/files/pdf/teaching/FML_Slides/Lec_04_SelectionShringkageMethod.pdf)
-- [Lec_05: PCR and PLS Method](/files/pdf/teaching/FML_Slides/Lec_05_PCR_and_PLS_Method.pdf)
+- [Lec 05: PCR and PLS Method](/files/pdf/teaching/FML_Slides/Lec_05_PCR_and_PLS_Method.pdf)
 - [Lec 06: Classification](/files/pdf/teaching/FML_Slides/Lec_06_Classification.pdf)
 - [Lec 07: Separating Hyperplane](/files/pdf/teaching/FML_Slides/Lec_07_Separating_Hyperplance.pdf)
 - [Lec 08: Support Vector Machine](/files/pdf/teaching/FML_Slides/Lec_08_Support_Vector_Machine.pdf)
