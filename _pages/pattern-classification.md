@@ -5,9 +5,9 @@ header:
   og_image: "images/bio-photo.jpg"
 ---
 
-## <i class="fas fa-fw fa-code" aria-hidden="true"></i> Poli 891: Lab for Advanced Political Data Science
+## <i class="fas fa-fw fa-code" aria-hidden="true"></i> EET3053: Pattern Classification
 {: #political-data-science }
-- [Programming Style](/files/html/teaching-materials/R_Style_Guide)
+- [Lec01: Introduction to Pattern Classification](/files/html/teaching-materials/R_Style_Guide)
 - [Functional Programming in R](/files/html/teaching-materials/Functional_Programming)
 - [Multilevel Linear Models](/files/html/teaching-materials/Multilevel_Linear_Models)
   - [Individual Exercise Solution](/files/html/teaching-materials/Multilevel_Linear_Models_Key.html)
