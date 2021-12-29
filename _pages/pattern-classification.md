@@ -2,7 +2,7 @@
 permalink: /pattern-classification/
 title: "Pattern Classificaiton"
 header: 
-  og_image: "teaching/pdp.png"
+  og_image: "images/bio-photo.jpg"
 ---
 
 ## <i class="fas fa-fw fa-code" aria-hidden="true"></i> Poli 891: Lab for Advanced Political Data Science
