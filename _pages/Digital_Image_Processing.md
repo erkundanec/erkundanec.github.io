@@ -1,5 +1,5 @@
 ---
-permalink: /Foundation_of_ML/
+permalink: /Digital_Image_Processing/
 title: "Digital Image Processing"
 ---
 
