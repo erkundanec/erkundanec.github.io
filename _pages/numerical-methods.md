@@ -5,14 +5,13 @@ title: "Pattern Classificaiton"
 
 ## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> EET3053: Pattern Classification
 {: #political-data-science }
-- [Lec01: Introduction to Pattern Classification](/files/pdf/teaching/PatternClassification_Slides/Lec01_Introduction.pdf)
-- [Lec02: Feature Extraction](/files/pdf/teaching/PatternClassification_Slides/Lec02_FeatureExtraction.pdf)
-- [Lec03: Bayes Decision Rule](/files/pdf/teaching/PatternClassification_Slides/Lec03_BayesDecisionRule.pdf)
-- [Lec04: Parametric and Non-parametric Estimation Techniques](/files/pdf/teaching/PatternClassification_Slides/Lec04_EstimationTechniques.pdf)
-- [Lec05: Component and Discriminant Analysis](/files/pdf/teaching/PatternClassification_Slides/Lec05_DimensionalityProblem.pdf)
-- [Lec06: Linear Discriminant Function](/files/pdf/teaching/PatternClassification_Slides/Lec06_LinearDiscriminantFunction.pdf)
-- [Lec07: Support Vector Machine](/files/pdf/teaching/PatternClassification_Slides/Lec07_SupportVectorMachine.pdf)
-- [Lec08: Artificial Neural Network](/files/pdf/teaching/PatternClassification_Slides/Lec08_ArtificialNeuralNetwork.pdf)
-- [Lec09: Unsupervised Learning (Clustering)](/files/pdf/teaching/PatternClassification_Slides/Lec09_Clustering.pdf)
+- [Lab01: Octave/Matlab Tutorial](/files/pdf/teaching/NumericalMethods_Slides/Lec00_Octave.pdf)
+- [Lec01: Introduction](/files/pdf/teaching/NumericalMethods_Slides/Lec01_Introduction.pdf)
+- [Lec03: Nonlinear Equation](/files/pdf/teaching/NumericalMethods_Slides/Lec02_NonlinearEquation.pdf)
+- [Lec04: Curve Fitting and Interpolation](/files/pdf/teaching/NumericalMethods_Slides/Lec06_CurveFitting.pdf)
+- [Lec05: Interpolation](/files/pdf/teaching/NumericalMethods_Slides/Lec04_Interpolation.pdf)
+- [Lec06: Numerical Integration](/files/pdf/teaching/NumericalMethods_Slides/Lec05_NumericalIntergration01.pdf)
+- [Lec07: Numerical Optimization](/files/pdf/teaching/NumericalMethods_Slides/Lec07_NumericalOptimization.pdf)
+- [Lec08: Solution of Linear Systems](/files/pdf/teaching/NumericalMethods_Slides/Lec08_SolutionLinearSystem.pdf)
 
 
