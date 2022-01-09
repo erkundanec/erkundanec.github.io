@@ -1,6 +1,6 @@
 ---
-permalink: /pattern-classification/
-title: "Pattern Classificaiton"
+permalink: /numerical-methods/
+title: "Numerical Methods"
 ---
 
 ## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> MTH4002: Numerical Methods
