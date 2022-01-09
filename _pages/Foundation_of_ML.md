@@ -5,8 +5,8 @@ title: "Foundation of Machine Learning"
 
 ## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> EET3053: Pattern Classification
 {: #political-data-science }
-- [Lec 00: Introduction to R Part1](/files/pdf/teaching/FML_Slides/Lec_00_Introduction_to_R_Part1.pdf)
-- [Lec 00: Introduction to R Part2](/files/pdf/teaching/FML_Slides/Lec_00_Introduction_to_R_Part2.pdf)
+- [Lec 00: Installation guide for R and RStudio](/files/pdf/teaching/FML_Slides/Lec_00_Introduction_to_R_Part1.pdf)
+- [Lec 00: Concise tutorial for R scripts](/files/pdf/teaching/FML_Slides/Lec_00_Introduction_to_R_Part2.pdf)
 - [Lec 01: introduction to Statistical Learning](/files/pdf/teaching/FML_Slides/Lec_01_introduction_to_Statistical_Learning.pdf)
 - [Lec 02: Overview of Supervised Learning Part1](/files/pdf/teaching/FML_Slides/Lec_02_Overview_of_Supervised_Learning_Part1.pdf)
 - [Lec 02: Overview of Supervised Learning Part2](/files/pdf/teaching/FML_Slides/Lec_02_Overview_of_Supervised_Learning_Part2.pdf)
