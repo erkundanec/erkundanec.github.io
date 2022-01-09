@@ -3,7 +3,7 @@ permalink: /pattern-classification/
 title: "Pattern Classificaiton"
 ---
 
-## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> EET3053: Pattern Classification
+## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> MTH4002: Numerical Methods
 {: #political-data-science }
 - [Lab00: Octave/Matlab Tutorial](/files/pdf/teaching/NumericalMethods_Slides/Lec00_Octave.pdf)
 - [Lec01: Introduction](/files/pdf/teaching/NumericalMethods_Slides/Lec01_Introduction.pdf)
