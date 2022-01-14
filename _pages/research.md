@@ -6,8 +6,12 @@ author_profile: true
 header:
   og_image: "research/ecdf.png"
 ---
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-My interest of the research domain is interdeciplinary. 
+
+
+## Post Phd Research Activities
+
 ## Academic Research
 ### [2011-2017] Research Scholar, IIT Kharagpur
 This thesis explored the idea that vibration signals are used for health monitoring of civil structure such as buildings, bridges, etc. using vibration signal analysis. It explores the different features sensitive to the level of the damage, and outlier detection approaches based on optimal residual space model (ORS). The proposed methods detect the severity of damage and location under varying operational and environmental conditions.
@@ -20,7 +24,7 @@ Master's thesis work is to develop an algorithm for human ear identification. SI
 
 Software Defined Radio using LMS algorithm
 
-<nbsp>
+<nbsp>  
 
 {% include base_path %}
 
