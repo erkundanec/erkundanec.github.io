@@ -21,14 +21,15 @@ Currently, he is affiliated to ECE Department, ITER, Siksha 'O' Anusandhan, Deem
     <td><b style="font-size:30px">Academic</b></td>
  </tr>
  <tr>
-    <td>Lorem ipsum ...</td>
+    <td>
+    - Medical Image Processing<br>
+    - Computer Vision and Image Processing<br>
+    - Machine Learning<br>
+    - Time Series Analysis<br>
+    - Structural Health Monitoring
+    </td>
     <td>Lorem ipsum ...</td>
  </tr>
 </table>
 
-## Reseach Interest
-- Medical Image Processing
-- Computer Vision and Image Processing
-- Machine Learning
-- Time Series Analysis
-- Structural Health Monitoring
+
