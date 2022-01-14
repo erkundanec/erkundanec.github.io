@@ -3,10 +3,9 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-header:
-  og_image: "research/ecdf.png"
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+## Pre 
 ## Post Phd Research
 <nbsp>  
 
@@ -17,12 +16,6 @@ header:
 {% for post in ordered_pages %}
   {% include archive-single.html type="grid" %}
 {% endfor %}
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  
-## Pre PhD
-Test
 
   
 
