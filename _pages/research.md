@@ -10,7 +10,7 @@ header:
 
 
 
-## Post Phd Research Activities
+## Post Phd Research
 
 ## Academic Research
 ### [2011-2017] Research Scholar, IIT Kharagpur
