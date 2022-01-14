@@ -19,6 +19,8 @@ My interest of the research domain is interdeciplinary.
   {% include archive-single.html type="grid" %}
 {% endfor %}
 
+  
+
 ## Academic Research
 ### [2011-2017] Research Scholar, IIT Kharagpur
 This thesis explored the idea that vibration signals are used for health monitoring of civil structure such as buildings, bridges, etc. using vibration signal analysis. It explores the different features sensitive to the level of the damage, and outlier detection approaches based on optimal residual space model (ORS). The proposed methods detect the severity of damage and location under varying operational and environmental conditions.
