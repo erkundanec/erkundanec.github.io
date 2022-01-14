@@ -4,10 +4,8 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-## Pre 
+
 ## Post Phd Research
-<nbsp>  
 
 {% include base_path %}
 
@@ -16,6 +14,14 @@ author_profile: true
 {% for post in ordered_pages %}
   {% include archive-single.html type="grid" %}
 {% endfor %}
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+## Post Phd Research
+This will work
+
+  
+  
 
   
 
