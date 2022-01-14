@@ -14,6 +14,18 @@ He has received the B.Tech. degree in Electronics and Telecommunication Engineer
 
 Currently, he is affiliated to ECE Department, ITER, Siksha 'O' Anusandhan, Deemed to be University, Bhubaneswar, Odisha, India. He has joined the university in March, 2017 as Associate Professor. Now, he is working on Analysis of Retinal Images for Diagnosis of Various Diseases. He has 9 research publications in international journals and conferences. His research interests include Computer Vision, Machine Learning, Pattern Recognition, Structural Health Monitoring, Time Series Analysis.
 
+
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Reseach Interest</b></td>
+    <td><b style="font-size:30px">Academic</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
+
 ## Reseach Interest
 - Medical Image Processing
 - Computer Vision and Image Processing
