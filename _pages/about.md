@@ -14,10 +14,10 @@ He has received the B.Tech. degree in Electronics and Telecommunication Engineer
 
 ## Reseach Interest
 * Medical Image Processing
-* Computer Vision and Image Processing
-* Machine Learning
-* Time Series Analysis
-* Structural Health Monitoring
+* [Computer Vision and Image Processing](https://en.wikipedia.org/wiki/Computer_vision)
+* [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
+* [Time Series Analysis](https://en.wikipedia.org/wiki/Time_series)
+* [Structural Health Monitoring](https://en.wikipedia.org/wiki/Structural_health_monitoring)
 
 
 
