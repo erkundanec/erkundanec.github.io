@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Kundan Kumar is an educator by profession involved in different interdesciplinary research including Medical Image Analysis, Computer Vision, Image Processing, Machine Learning, and Time Series Analysis. Current, He is affliliated to Center of the Internet of Things, Institute of Technical Education and Research (FET), Siksha `O' Anusandhan Deemed to be Univesity, Bhubaneswar, India.
+Kundan Kumar is an educator by profession involved in different interdesciplinary research activities in the doamin of Medical Image Analysis, Computer Vision, Image Processing, Machine Learning, and Time Series Analysis. Current, He is an Associate Professor, affliliated to Center of the Internet of Things, Institute of Technical Education and Research (FET), Siksha 'O' Anusandhan Deemed to be Univesity, Bhubaneswar, India. Prior to this, He served more than 3 years in the Deparment of Electronics and Communication Engineering at the same University.
 
 He has received the B.Tech. degree in Electronics and Telecommunication Engineering, in 2009, from Dhaneswar Rath Institute of Engineering and Management Studies, Cuttack, Odisha, India, and the M.Tech. degree in Electronic Systems & Communication Engineering from National Institute of Technology, Rourkela, Odisha, India in 2011. There, he received the silver medel for best academic award in the same year. After the completion of his M.Tech degree, He enrolled in Doctor of Philosophgy (Ph.D.) at Indian Institute of Technology, Kharagpur, India in the department of Electronics and Electrical Communication Engineering Department. He has completed Doctor of Philosophy (Ph.D.) degree in 2017 under the supervision of Prof. P. K. Biswas. His Ph.D. thesis work deals with the Statistical Damage Detection approaches for Civil Structures using Vibration Signal Analysis.
-
-Currently, he is affiliated to ECE Department, ITER, Siksha 'O' Anusandhan, Deemed to be University, Bhubaneswar, Odisha, India. He has joined the university in March, 2017 as Associate Professor. Now, he is working on Analysis of Retinal Images for Diagnosis of Various Diseases. He has 9 research publications in international journals and conferences. His research interests include Computer Vision, Machine Learning, Pattern Recognition, Structural Health Monitoring, Time Series Analysis.
 
 
 <table border="0">
@@ -22,11 +20,11 @@ Currently, he is affiliated to ECE Department, ITER, Siksha 'O' Anusandhan, Deem
  </tr>
  <tr>
     <td>
-    - Medical Image Processing<br>
-    - Computer Vision and Image Processing<br>
-    - Machine Learning<br>
-    - Time Series Analysis<br>
-    - Structural Health Monitoring
+    * Medical Image Processing<br>
+    * Computer Vision and Image Processing<br>
+    * Machine Learning<br>
+    * Time Series Analysis<br>
+    * Structural Health Monitoring
     </td>
     <td>Lorem ipsum ...</td>
  </tr>
