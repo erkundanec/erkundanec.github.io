@@ -13,9 +13,9 @@ Kundan Kumar is an educator by both passion and profession, involved in various 
 He has received the B.Tech. degree in Electronics and Telecommunication Engineering, in 2009, from [Dhaneswar Rath Institute of Engineering and Management Studies, Cuttack, Odisha](https://www.driems.ac.in/driems-degree/), India, and the M.Tech. degree in Electronic Systems & Communication Engineering from [National Institute of Technology, Rourkela, Odisha, India](https://www.nitrkl.ac.in/EE/) in 2011. There, he received the silver medal for the best academic award in the same year. After the completion of his M.Tech degree, He enrolled in Doctor of Philosophy (PhD) at [Indian Institute of Technology, Kharagpur, India](http://www.iitkgp.ac.in/) in the department of [Electronics and Electrical Communication Engineering](http://www.ecdept.iitkgp.ac.in/). He has completed his PhD degree in 2017 under the supervision of Prof. P. K. Biswas. His PhD thesis work deals with the Statistical Damage Detection approaches for Civil Structures using Vibration Signal Analysis.
 
 ## Reseach Interest
+* [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
 * [Medical Image Processing](https://www.synopsys.com/glossary/what-is-medical-image-processing.html)
 * [Computer Vision and Image Processing](https://en.wikipedia.org/wiki/Computer_vision)
-* [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
 * [Time Series Analysis](https://en.wikipedia.org/wiki/Time_series)
 * [Structural Health Monitoring](https://en.wikipedia.org/wiki/Structural_health_monitoring)
 
