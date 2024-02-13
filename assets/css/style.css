@@ -331,10 +331,13 @@ main {
   gap: 15px;
 }
 
-.avatar-box {
+/* .avatar-box {
   background: var(--bg-gradient-onyx);
-  border-radius: 20px;
-}
+border-radius: 50%;    
+border-radius: 20px;
+} */
+
+.avatar-box img{--size: 170px;display:block;border-radius:50%;margin:0 auto .5rem;}aside 
 
 .info-content .name {
   color: var(--white-2);
