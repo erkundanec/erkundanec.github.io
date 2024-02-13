@@ -476,13 +476,28 @@ border-radius: 20px;
   padding-left: 7px;
 }
 
-.social-item .social-link {
+.social-item{
   color: var(--light-gray-70);
   font-size: 18px;
 }
 
+.social-link {
+  color: var(--light-gray-70);
+  font-size: 18px;
+}
 
 .social-item .social-link:hover { color: var(--light-gray); }
+
+.float-right {
+  float: right;
+}
+
+.social-item-home{
+  display: flex; /* Use flexbox */
+  justify-content: flex-end; /* Align items to the end (right) */
+  color: var(--light-gray-70);
+  font-size: 18px;
+}
 
 
 

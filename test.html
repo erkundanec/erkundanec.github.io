@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Your head content -->
+</head>
+<body>
+    <div class="sidebar">
+        <!-- Sidebar content -->
+        <button id="loadButton" onclick="loadMainContent('project-project1.html')">Load Another Page</button>
+    </div>
+    <div class="main-content" id="mainContent">
+        <!-- Main content will be replaced here -->
+    </div>
+
+    <!-- Your scripts -->
+    <script>
+        // Function to fetch and replace main content
+        function loadMainContent(url) {
+            fetch(url)
+                .then(response => response.text())
+                .then(data => {
+                    document.getElementById('mainContent').innerHTML = data;
+                    document.getElementById('loadButton').style.display = 'none'; // Hide the button
+                })
+                .catch(error => console.error('Error loading main content:', error));
+        }
+    </script>
+</body>
+</html>
