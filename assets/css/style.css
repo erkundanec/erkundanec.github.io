@@ -363,7 +363,7 @@ border-radius: 20px;
   font-size: var(--fs-8);
   font-weight: var(--fw-300);
   width: max-content;
-  /* padding: 3px 12px; */
+  padding: 3px 0px;
   margin-top: -15px;
   border-radius: 8px;
   white-space: pre-line;
@@ -375,7 +375,7 @@ border-radius: 20px;
   font-size: var(--fs-8);
   font-weight: var(--fw-300);
   width: max-content;
-  /* padding: 3px 12px; */
+  padding: 0px 0px;
   margin-top: -5px;
   border-radius: 8px;
   white-space: pre-line;
