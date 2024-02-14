@@ -371,7 +371,7 @@ border-radius: 20px;
 .title_1 {
   color: var(--white-1);
   /* background: var(--onyx); */
-  --fs-7: 14px;
+  font-size: var(--fs-8);
   font-weight: var(--fw-300);
   width: max-content;
   padding: 3px -1px;
@@ -383,7 +383,7 @@ border-radius: 20px;
 .title_2 {
   color: var(--white-1);
   /* background: var(--onyx); */
-  --fs-7: 14px;
+  font-size: var(--fs-8);
   font-weight: var(--fw-300);
   width: 100%;
   padding: 0px -1px;
@@ -497,10 +497,12 @@ border-radius: 20px;
   justify-content: flex-end; /* Align items to the end (right) */
   color: var(--light-gray-70);
   font-size: 18px;
+  margin-left: auto;
 }
 
-
-
+.social-item-home .fa-download {
+  color: var(--light-gray-70);
+}
 
 
 /*-----------------------------------*\
