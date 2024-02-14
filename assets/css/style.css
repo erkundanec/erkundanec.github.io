@@ -371,7 +371,7 @@ border-radius: 20px;
 .title_1 {
   color: var(--white-1);
   /* background: var(--onyx); */
-  font-size: var(--fs-8);
+  --fs-7: 14px;
   font-weight: var(--fw-300);
   width: max-content;
   padding: 3px -1px;
@@ -383,7 +383,7 @@ border-radius: 20px;
 .title_2 {
   color: var(--white-1);
   /* background: var(--onyx); */
-  font-size: var(--fs-8);
+  --fs-7: 14px;
   font-weight: var(--fw-300);
   width: 100%;
   padding: 0px -1px;
