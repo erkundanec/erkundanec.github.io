@@ -488,6 +488,13 @@ border-radius: 20px;
 
 .social-item .social-link:hover { color: var(--light-gray); }
 
+.paper-link {
+  color: var(--light-gray-00);
+  /* font-size: 18px; */
+}
+
+.paper-link:hover { color: var(--light-gray-70); }
+
 .float-right {
   float: right;
 }
