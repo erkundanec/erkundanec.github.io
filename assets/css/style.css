@@ -489,11 +489,23 @@ border-radius: 20px;
 .social-item .social-link:hover { color: var(--light-gray); }
 
 .paper-link {
-  color: var(--light-gray-00);
-  /* font-size: 18px; */
+  color: var(--light-gray);
+  font-size: var(--fs-6);
+  font-weight: var(--fw-300);
+  line-height: 1.6;
 }
 
+.lecture-link {
+  /* font-size: var(--fs-7); */
+    color: var(--light-gray);
+    font-weight: var(--fw-300);
+    line-height: 1.6;
+  }
+}
+
+
 .paper-link:hover { color: var(--light-gray-70); }
+.lecture-link:hover { color: var(--light-gray-70); }
 
 .float-right {
   float: right;
