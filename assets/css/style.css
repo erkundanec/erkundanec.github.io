@@ -510,7 +510,6 @@ border-radius: 20px;
     font-weight: var(--fw-300);
     line-height: 1.6;
   }
-}
 
 
 .paper-link:hover { color: var(--light-gray-70); }
