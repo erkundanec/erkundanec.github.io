@@ -932,13 +932,13 @@ border-radius: 20px;
  * education and experience 
  */
 
-.timeline { margin-bottom: 30px; }
+.timeline { margin-bottom: 10px; }
 
 .timeline .title-wrapper {
   display: flex;
   align-items: center;
   gap: 15px;
-  margin-bottom: 25px;
+  margin-bottom: 15px;
 }
 
 .timeline-list {
