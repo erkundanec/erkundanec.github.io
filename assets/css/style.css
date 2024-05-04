@@ -1126,6 +1126,18 @@ border-radius: 20px;
   margin-bottom: 15px;
 }
 
+.simple-img {
+  display: block;
+  width: 100%; /* Ensures image fills its container horizontally */
+  height: auto; /* Allows the image to adjust its height while maintaining aspect ratio */
+  overflow: hidden; /* Hides any part of the image that overflows its container */
+  border-radius: 4px;
+}
+.simple-img img {
+  width: 100%; /* Ensures image fills its container horizontally */
+  height: auto; /* Allows the image to adjust its height while maintaining aspect ratio */
+}
+
 .project-img::before {
   content: "";
   position: absolute;
