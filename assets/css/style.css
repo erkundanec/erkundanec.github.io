@@ -714,6 +714,14 @@ border-radius: 20px;
    line-height: 1.6;
  }
  
+ .cert-date {
+  display: inline;
+  color: var(--orange-yellow-crayola);
+  font-size: var(--fs-6);
+  font-weight: var(--fw-300);
+  margin: 0 4px 0 0;
+  vertical-align: middle;
+}
 
 
 /**
@@ -2208,6 +2216,36 @@ textarea.form-input::-webkit-resizer { display: none; }
   background: transparent;
   z-index: 1;
   transition: var(--transition-1);
+}
+
+/* Certificate date style */
+.cert-date {
+  display: inline;
+  color: var(--orange-yellow-crayola);
+  font-size: var(--fs-6);
+  font-weight: var(--fw-300);
+  margin: 0 4px 0 0;
+  vertical-align: middle;
+}
+
+/* Certificate link style: blue, no hover effect */
+.cert-list a,
+.project-category a {
+  color: #00BFFF;
+  text-decoration: none;
+}
+
+.cert-list a:hover,
+.project-category a:hover {
+  color: #00BFFF;
+}
+
+/* Reduce font size for certificate date, issued by, and view certificate */
+.cert-date,
+.project-category,
+.cert-list a,
+.project-category a {
+  font-size: var(--fs-8); /* Use the smallest defined font size */
 }
 
 

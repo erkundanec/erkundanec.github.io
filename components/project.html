@@ -1,0 +1,105 @@
+<article class="project" data-page="project" id="project">
+  <header>
+    <h2 class="h2 article-title">Project</h2>
+  </header>
+
+  <section class="projects">
+    <ul class="filter-list">
+      <li class="filter-item">
+        <button class="active" data-filter-btn>All</button>
+      </li>
+      <li class="filter-item">
+        <button data-filter-btn>Machine Learning</button>
+      </li>
+      <li class="filter-item">
+        <button data-filter-btn>Time Series</button>
+      </li>
+      <li class="filter-item">
+        <button data-filter-btn>Medical Image Analysis</button>
+      </li>
+      <li class="filter-item">
+        <button data-filter-btn>Finance and Trading</button>
+      </li>
+    </ul>
+
+    <div class="filter-select-box">
+      <button class="filter-select" data-select>
+        <div class="select-value" data-selecct-value>Select category</div>
+        <div class="select-icon">
+          <ion-icon name="chevron-down"></ion-icon>
+        </div>
+      </button>
+      <ul class="select-list">
+        <li class="select-item">
+          <button data-select-item>All</button>
+        </li>
+        <li class="select-item">
+          <button data-select-item>Machine Learning</button>
+        </li>
+        <li class="select-item">
+          <button data-select-item>Time Series</button>
+        </li>
+        <li class="select-item">
+          <button data-select-item>Medical Image Analysis</button>
+        </li>
+        <li class="select-item">
+          <button data-select-item>Finance and Trading</button>
+        </li>
+      </ul>
+    </div>
+
+    <ul class="project-list">
+      <li class="project-item active" data-filter-item data-category="finance and trading">
+        <a href="pages/visualTrading.html">
+          <figure class="project-img">
+            <div class="project-item-icon-box">
+              <ion-icon name="eye-outline"></ion-icon>
+            </div>
+            <img src="./assets/images/VisualTrading_1.png" alt="finance" loading="lazy">
+          </figure>
+          <h3 class="project-title">Visual Trading</h3>
+          <p class="project-category">Tool to analyse stock market</p>
+        </a>
+      </li>
+
+      <li class="project-item active" data-filter-item data-category="machine learning">
+        <a href="DCGAN_Pytorch.html">
+          <figure class="project-img">
+            <div class="project-item-icon-box">
+              <ion-icon name="eye-outline"></ion-icon>
+            </div>
+            <img src="./assets/images/DAGAN.png" alt="fakeimage" loading="lazy">
+          </figure>
+          <h3 class="project-title">Fake-Image Generator</h3>
+          <p class="project-category">Using DCGAN</p>
+        </a>
+      </li>
+
+      <li class="project-item active" data-filter-item data-category="medical image analysis">
+        <a href="retinal-vessel-detection.html">
+          <figure class="project-img">
+            <div class="project-item-icon-box">
+              <ion-icon name="eye-outline"></ion-icon>
+            </div>
+            <img src="./assets/images/Retinal_Seg.png" alt="finance" loading="lazy">
+          </figure>
+          <h3 class="project-title">Retinal Vessel Detection</h3>
+          <p class="project-category">Using Gabor Filters</p>
+        </a>
+      </li>
+
+      <li class="project-item active" data-filter-item data-category="medical image analysis">
+        <a href="oral-squamous-classification.html">
+          <figure class="project-img">
+            <div class="project-item-icon-box">
+              <ion-icon name="eye-outline"></ion-icon>
+            </div>
+            <img src="./assets/images/Oral_Sq.jpeg" alt="finance" loading="lazy">
+          </figure>
+          <h3 class="project-title">Oral Squamous Cell Classification</h3>
+          <p class="project-category">Using transfer learning</p>
+        </a>
+      </li>
+    </ul>
+  </section>
+</article>
